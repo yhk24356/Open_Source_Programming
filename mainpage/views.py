@@ -21,3 +21,6 @@ def stomachache_medicine(request):
 
 def toothache_medicine(request):
     return render(request, 'toothache_medicine.html')
+
+def toothache_medicine(request):
+    return render(request, '콜드원에스시럽.html')
