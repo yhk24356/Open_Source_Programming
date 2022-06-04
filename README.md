@@ -7,6 +7,13 @@
 약의 상세페이지로 이동한다. 
 ## 서비스 화면
 
+![스크린샷(164)](https://user-images.githubusercontent.com/52125133/172008513-3679f31d-705e-4b4a-8309-e5cdb4b9a4af.png)
+
+![스크린샷(165)](https://user-images.githubusercontent.com/52125133/172008506-40096ddd-d672-4ea8-9b24-6b7ba7982768.png)
+
+![스크린샷(166)](https://user-images.githubusercontent.com/52125133/172008514-bf6a80f0-29b7-48e1-be3e-2af36ef4e2c9.png)
+
+
 다운로드 방법
 ---
 프로젝트를 클론 받은 후 Django를 설치한다
