@@ -7,7 +7,22 @@
 약의 상세페이지로 이동한다. 
 ## 서비스 화면
 
+다운로드 방법
+---
+프로젝트를 클론 받은 후 Django를 설치한다
+pip install Django
+python manage.py runserver
 
+
+의존성
+---
+python 3.x
+Django 3.8
+
+실행방법
+---
+프로젝트 폴더로 이동하고 터미널을 통하여 python manage.py runserver 명령어 입력
+포트번호/mainpage/main/으로 이 메인 페이지이므로 이동
 
 라이선스
 ---
