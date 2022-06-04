@@ -10,11 +10,11 @@
 
 <body>
     <h1><image src="/static/image/logo2-1.JPG" style="width:550px; height: 350px; margin-left: -50px; margin-top: -300px;"></h1>
-    <a href="/"><button>감기</button></a>
-    <a href="/"><button class="head">두통</button></a>
-    <a href="/"><button class="back">요통</button></a>
-    <a href="/"><button class="muscle">근육통</button></a>
-    <a href="/"><button class="stomach">복통</button></a>
-    <a href="/"><button class="tooth">치통</button></a>
+    <a href="{% url 'cold_medicine' %}"><button>감기</button></a>
+    <a href="{% url 'headache_medicine' %}"><button class="head">두통</button></a>
+    <a href="{% url 'back_pain_medicine' %}"><button class="back">요통</button></a>
+    <a href="{% url 'muscle_pain_medicine' %}"><button class="muscle">근육통</button></a>
+    <a href="{% url 'stomachache_medicine' %}"><button class="stomach">복통</button></a>
+    <a href="{% url 'toothache_medicine' %}"><button class="tooth">치통</button></a>
 </body>
 </html>
