@@ -11,4 +11,6 @@ urlpatterns = [
     path('muscle_pain_medicine/', views.muscle_pain_medicine, name='muscle_pain_medicine'),
     path('stomachache_medicine/', views.stomachache_medicine, name='stomachache_medicine'),
     path('toothache_medicine/', views.toothache_medicine, name='toothache_medicine'),
+    path('콜드원에스시럽/', views.콜드원에스시럽, name='콜드원에스시럽'),
+    
 ]
