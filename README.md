@@ -23,4 +23,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   
 연락처
 ---
-충북대학교 컴퓨터공학과 2학년 이상민 (sangmin7880@naver.com)
+충북대학교 컴퓨터공학과 2학년 이상민 (sangmin7880@naver.com), 육민정(yukmj1123@naver.com)
